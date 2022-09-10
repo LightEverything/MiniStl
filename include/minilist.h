@@ -8,7 +8,7 @@
  * 
  */
 #ifndef __MINI_LIST__H
-#define __MINI_LIST___H
+#define __MINI_LIST__H
 
 #include <memory>
 #define __DEFAULT_ALLOCATOR std::allocator<__MiniList_Node<T>>
